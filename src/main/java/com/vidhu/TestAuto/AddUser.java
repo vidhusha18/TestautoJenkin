@@ -1,6 +1,8 @@
 package com.vidhu.TestAuto;
 
-import static org.junit.Assert.assertSame;
+
+
+import static org.junit.jupiter.api.Assertions.assertSame;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
